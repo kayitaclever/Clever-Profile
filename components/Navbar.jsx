@@ -51,7 +51,7 @@ function Navbar() {
                         <Link href="/#contact">
                             <li className="ml-10 text-sm uppercase hover:border-b-2">Contact</li>
                         </Link>
-                        <Link href="https://drive.google.com/file/d/18RtDJkRClthYjCNvSyYHS4VKOJeKkD7A/view?usp=share_link" target="_blank">
+                        <Link href="https://drive.google.com/file/d/1Nhs8XnNoSazHjVtqmsy4mHe765nLvqh1/view?usp=drive_link" target="_blank">
                             <li className="ml-10 text-sm uppercase hover:scale-105 ease-in duration-300 p-1 bg-violet-300 rounded-md">Resume</li>
                         </Link>
                     </ul>
